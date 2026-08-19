@@ -1,0 +1,14 @@
+C:\Users\WINDOWS\source\repos\40\40\bin\Debug\net8.0\40.exe
+C:\Users\WINDOWS\source\repos\40\40\bin\Debug\net8.0\40.deps.json
+C:\Users\WINDOWS\source\repos\40\40\bin\Debug\net8.0\40.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\40\40\bin\Debug\net8.0\40.dll
+C:\Users\WINDOWS\source\repos\40\40\bin\Debug\net8.0\40.pdb
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.AssemblyInfo.cs
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.dll
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\refint\40.dll
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.pdb
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\40.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\40\40\obj\Debug\net8.0\ref\40.dll

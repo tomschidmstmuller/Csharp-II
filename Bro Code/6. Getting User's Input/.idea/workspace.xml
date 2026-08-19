@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7781091d-e960-4e2d-9734-cbd9fc0b15de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../1/1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/bin/Debug/net8.0/1.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/bin/Debug/net8.0/1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/bin/Debug/net8.0/1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/bin/Debug/net8.0/1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/bin/Debug/net8.0/1.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/1.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/1.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/1.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/ref/1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/Debug/net8.0/refint/1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/bin/Debug/net8.0/2.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/bin/Debug/net8.0/2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/bin/Debug/net8.0/2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/bin/Debug/net8.0/2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/bin/Debug/net8.0/2.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/2.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/2.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/2.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/ref/2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Debug/net8.0/refint/2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Release/net8.0/2.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Release/net8.0/2.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Release/net8.0/2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Release/net8.0/2.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/Release/net8.0/2.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/3.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/bin/Debug/net8.0/3.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/bin/Debug/net8.0/3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/bin/Debug/net8.0/3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/bin/Debug/net8.0/3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/bin/Debug/net8.0/3.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/3.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/3.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/3.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/3.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/ref/3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/Debug/net8.0/refint/3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/4.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/bin/Debug/net8.0/4.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/bin/Debug/net8.0/4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/bin/Debug/net8.0/4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/bin/Debug/net8.0/4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/bin/Debug/net8.0/4.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/4.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/4.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/4.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/4.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/ref/4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/Debug/net8.0/refint/4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/5.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/bin/Debug/net8.0/5.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/bin/Debug/net8.0/5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/bin/Debug/net8.0/5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/bin/Debug/net8.0/5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/bin/Debug/net8.0/5.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/5.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/5.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/5.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/5.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/ref/5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/Debug/net8.0/refint/5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/6.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/bin/Debug/net8.0/6.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/bin/Debug/net8.0/6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/bin/Debug/net8.0/6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/bin/Debug/net8.0/6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/bin/Debug/net8.0/6.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/6.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/6.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/6.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/6.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/ref/6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/Debug/net8.0/refint/6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6/obj/project.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/MyFirstProgram.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/MyFirstProgram.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.csproj.BuildWithSkipAnalyzers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.genruntimeconfig.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/apphost.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/ref/MyFirstProgram.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/Debug/net8.0/refint/MyFirstProgram.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/MyFirstProgram.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/MyFirstProgram.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/MyFirstProgram.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProgram/obj/project.nuget.cache" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="312FZZQC6uXzDUOWpRymfvz4sQZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7781091d-e960-4e2d-9734-cbd9fc0b15de" name="Changes" comment="" />
+      <created>1754714318263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754714318263</updated>
+      <workItem from="1754714320276" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
